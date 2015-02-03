@@ -1,6 +1,5 @@
 __author__ = 'jonathan'
 
-#Working release
 import requests
 from lxml import etree
 import HTMLParser
